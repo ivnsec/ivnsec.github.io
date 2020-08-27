@@ -1,3 +1,7 @@
-theme: jekyll-theme-hacker
 title: Welcome to IVNsec Blog. 
 description: Site under development, still doing testing here and there.
+author: Ivn 
+
+#Build settings
+markdown: kramdown 
+theme: jekyll-theme-hacker
